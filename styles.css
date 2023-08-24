@@ -1,0 +1,6 @@
+@import url(Styles/header.css);
+
+:root {--cordefundo:#EBECEE;}
+
+
+body {background-color: var(--cordefundo);}
